@@ -22,4 +22,4 @@ Dentro da visualização seriam cabíveis melhorias nos visuais apresentados afi
 - TRANSFORMAÇÃO: O tratamento foi feito no Power Query, realizando correções nas colunas para facilitação do entendimento de quem trabalhasse com o Dashboard.
 - LOAD: O template foi criado no Figma utilizando a paleta de tons que conectasse com as cores do [Kaggle](https://www.kaggle.com/), de forma que passasse a imagem de tons neutros, entre azul e branco, com cores diversas em tons médios.
 
-![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Sal%C3%A1rios%20Internacionais%20para%20Data%20Science/print_dashboard.png)
+![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/Salarios_Data_Science/blob/main/print_dashboard.png)
